@@ -10,13 +10,19 @@
 
 ## Demonstração
 
-O script pode ser testado em: [endereço será colocado aqui em breve]
+O script pode ser testado em: **[endereço será colocado aqui em breve]**
 
 ## Estrutura
 
 - `index.html` – Estrutura da interface.
 - `estilos.css` – Estilização da interface.
 - `acentuacoes.js` – Contém o dicionário de correções automáticas e lógica adicional.
+
+## Créditos
+
+O dicionário utilizado foi baseado em uma compilação de mais de 500 mil palavras e expressões em português brasileiro feita por **[João Arthur Britto](https://github.com/j0aoarthur)** (`j0aoarthur`), disponível em: [https://github.com/j0aoarthur/Palavras-PT-BR](https://github.com/j0aoarthur/PalavrasPT-BR)
+
+O dicionário original foi modificado para conter apenas palavras que possuem algum tipo de acento típico do português brasileiro.
 
 ## Requisitos
 
@@ -31,4 +37,3 @@ Isso significa que:
 - Qualquer modificação ou redistribuição **deve manter o código aberto e gratuito**, sob a mesma licença GPL-3.0.
 
 Para mais detalhes, consulte: [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
-
