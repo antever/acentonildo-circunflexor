@@ -24,6 +24,11 @@ O dicionário utilizado foi baseado em uma compilação de mais de 500 mil palav
 
 O dicionário original foi modificado para conter apenas palavras que possuem algum tipo de acento típico do português brasileiro.
 
+## Apoio
+O desenvolvimento desta e de outras ferramentas é financiado com doações voluntárias. Se quiser apoiar, você pode doar aqui:
+<a href="https://buymeacoffee.com/antever" target="_blank">https://buymeacoffee.com/antever</a>
+
+
 ## Requisitos
 
 Compatível com navegadores modernos. Não requer instalação ou conexão com servidor.
