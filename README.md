@@ -10,7 +10,7 @@
 
 ## Demonstração
 
-O script pode ser testado em: **[endereço será colocado aqui em breve]**
+O script pode ser testado em: https://antever.github.io/acentonildo-circunflexor/
 
 ## Estrutura
 
