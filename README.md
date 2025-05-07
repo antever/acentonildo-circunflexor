@@ -20,7 +20,7 @@ O script pode ser testado em: https://antever.github.io/acentonildo-circunflexor
 
 ## Créditos
 
-O dicionário utilizado foi baseado em uma compilação de mais de 500 mil palavras e expressões em português brasileiro feita por **[João Arthur Britto](https://github.com/j0aoarthur)** (`j0aoarthur`), disponível em: [https://github.com/j0aoarthur/Palavras-PT-BR](https://github.com/j0aoarthur/PalavrasPT-BR)
+O dicionário utilizado foi baseado em uma compilação de mais de 500 mil palavras e expressões em português brasileiro feita por **[João Arthur Britto](https://github.com/j0aoarthur)** (`j0aoarthur`), disponível em: [https://github.com/j0aoarthur/Palavras-PT-BR](https://github.com/j0aoarthur/Palavras-PT-BR)
 
 O dicionário original foi modificado para conter apenas palavras que possuem algum tipo de acento típico do português brasileiro.
 
