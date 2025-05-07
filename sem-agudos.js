@@ -1,4 +1,4 @@
-const corrections = {
+const correctionsSemAgudos = {
   "a propos": "à propos",
   "aalenio": "aalênio",
   "aaquenio": "aaquênio",
